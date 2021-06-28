@@ -1,0 +1,1 @@
+# thinban-algorithm
